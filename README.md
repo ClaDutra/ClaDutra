@@ -1,54 +1,53 @@
-<!-- Title -->
+<!-- Título -->
 <h1 align="center">
-        <samp>&gt; Olá, me chamo
-                <b>Clarice Dutra!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> </b>
-        </samp>
+  <samp>&gt; Olá, eu sou <b>Clarice Dutra</b> 🛰️</samp>
+  <br>
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 </h1>
 <br>
 
+<!-- Introdução -->
 <h2 align="center">
-        <!-- Intro -->
-        <samp>
-                「 Sou desenvolvedora Freelancer do <b>Rio de Janeiro</b> 」
-                <br>
-                「 Transformando cafeína em código, um repositório GitHub de cada vez 💻 </b> 」
-                <br>
-                <br>
-</h2>
-          <br>
-<h1 align="center">
   <samp>
-    Tech Tools 🔧
-<br>          
-<br>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    
+    「 Profissional de <b>Cibersegurança</b> focada em <b>Threat Hunting</b> & <b>Monitoramento e Detecção</b> 」  
+    <br>
   </samp>
-</h1>
-        <!-- Social Links -->
-        <h1 align="center">
-          <samp>
-          <b>Contatos 📲</b>
-        <br>
-          <!-- Mail -->
-        <a href="mailto:connect.claricevieirad@outlook.com" target="_blank"><img alt="Outlook"
-                src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-        </a>
-        <!-- Mail -->
-        <a href="mailto:connect.claricevieirad@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/clarice-dutra/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-    </h1>
-</details>
+</h2>
+<br>
 
+<!-- Ferramentas -->
+<h1 align="center">
+  <samp>🔧 Tecnologias & Ferramentas</samp>
+  <br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/QRadar-0033A0?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/Wazuh-006AFF?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Trend%20Micro-D71920?style=for-the-badge&logo=trend-micro&logoColor=white">
+</h1>
+<br>
+
+<!-- Sobre Mim -->
+<h2 align="center">
+  <samp>
+    💬 <b>Sobre mim</b>
+  </samp>
+</h2>
+
+<p align="center">
+<br><br>
+🚀 Atualmente, estou ampliando meus conhecimentos em <b>Threat Hunting avançado</b>, aplicando aprendizado contínuo em projetos pessoais e estudos técnicos.  
+</p>
+<br>
+
+<!-- Contatos -->
+<h1 align="center">
+  <samp><b>📲 Conecte-se comigo</b></samp>
+</h1>
+<br>
+
+<!-- Rodapé -->
+<h4 align="center">
+  <samp>⭐ Repositório em constante atualização — novos conteúdos sobre Threat Hunting, SOC e Cibersegurança em breve!</samp>
+</h4>
