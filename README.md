@@ -37,7 +37,7 @@
 
 <p align="center">
 <br><br>
-🚀 Atualmente, estou ampliando meus conhecimentos em <b>Threat Hunting avançado</b>, aplicando aprendizado contínuo em projetos pessoais e estudos técnicos.  
+🚀 Atualmente, estou ampliando meus conhecimentos em <b>Threat Hunting</b>, aplicando aprendizado contínuo em projetos pessoais e estudos técnicos.  
 </p>
 <br>
 
