@@ -1,8 +1,8 @@
-<img src="https://media.giphy.com/media/SOgip4JsJh67QMHn8c/giphy.gif" width="100%" alt="banner" />
+<img src="https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" width="100%" alt="banner" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40claDutra%3A~%23+whoami;Clarice+Dutra+%E2%80%94+Threat+Hunter;Monitoramento+%2B+Detec%C3%A7%C3%A3o+de+Amea%C3%A7as;Sistema+em+aprendizado+cont%C3%ADnuo..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40claDutra%3A~%23+whoami;Clarice+Dutra+%E2%80%94+Threat+Hunter;Monitoramento+%2B+Detec%C3%A7%C3%A3o+de+Amea%C3%A7as" alt="Typing SVG" />
 
 ![profile views](https://komarev.com/ghpvc/?username=ClaDutra&color=00FF41&style=flat-square&label=connections+traced)
 
@@ -32,7 +32,7 @@ Status:   [ONLINE] monitorando endpoints
 
 <div align="center">
 
-### `[ Threat Hunting & Monitoramento e Detecção ]`
+### `[Threat Hunting & Monitoramento e Detecção ]`
 
 </div>
 
